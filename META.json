@@ -1,0 +1,68 @@
+{
+  "category": "mail-filtering",
+  "created_date": "2025-09-15T22:48:57.145675",
+  "default_ports": [
+    80,
+    443,
+    2048,
+    10024
+  ],
+  "dependencies": [
+    "perl",
+    "spamassassin",
+    "clamav"
+  ],
+  "description": "Amavisd-new is a free and open-source Mail Filter. Interface between mailer and content checkers",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/mail-filtering/amavisd",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/mail-filtering/amavisd",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:57.145716",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "amavisd",
+  "repository_url": "https://github.com/howtomgr/amavisd",
+  "spec_version": "2.0",
+  "subcategory": "mail-filtering",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "mail-filtering",
+    "containerization",
+    "orchestration",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection",
+    "communication"
+  ],
+  "title": "Amavisd-new Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/mail-filtering/amavisd"
+}
